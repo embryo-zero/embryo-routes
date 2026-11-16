@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Routes
+
+**Embryo Routes** is Embryo-Zero's fork of [osrm-backend](https://github.com/Project-OSRM/osrm-backend), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 ## Open Source Routing Machine
 
 [![osrm-backend CI](https://github.com/Project-OSRM/osrm-backend/actions/workflows/osrm-backend.yml/badge.svg)](https://github.com/Project-OSRM/osrm-backend/actions/workflows/osrm-backend.yml) [![Discord](https://img.shields.io/discord/1034487840219860992)](https://discord.gg/CpWzBC9G7Z)
